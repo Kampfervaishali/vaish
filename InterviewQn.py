@@ -6,7 +6,7 @@ def find_max():
     c=2
     bal=0
 
-
+#Sample coding questions
     while(bal<sum):
         if count == 0:
             bal = sum
@@ -33,4 +33,4 @@ def find_max():
 
 if __name__== "__main__":
     times = find_max()
-    print("nu of counts ",times)
+    print("number of counts ",times)
