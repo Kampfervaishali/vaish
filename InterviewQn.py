@@ -1,3 +1,5 @@
+#Prog to fine sum of 3 gvn valued
+
 def find_max():
     count=0
     sum=11
